@@ -9,3 +9,5 @@
 [5.25题目](https://github.com/Yolo-929/Leetcode/blob/master/May/5.25.md)
 
 [5.26题目](https://github.com/Yolo-929/Leetcode/blob/master/May/5.26.md)
+
+[5.27题目](https://github.com/Yolo-929/Leetcode/blob/master/May/5.27.md)
